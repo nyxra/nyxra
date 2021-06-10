@@ -4,8 +4,8 @@
 
 <div>
 	<a href="https://github.com/nyxra">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=nyxra&hide=prs&include_all_commits=true&count_private=true&show_icons=true&theme=nord" />
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxra&layout=compact&langs_count=6&theme=nord" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=nyxra&custom_title=Nyora's Github Stats&hide=prs&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxra&layout=compact&langs_count=6&theme=dark" />
 	</a>
 </div>
 
